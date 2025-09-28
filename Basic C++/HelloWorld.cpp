@@ -9,3 +9,4 @@ int main() {
   //This return 0 shows the successful execution of the scope of the code
   return 0;
 }
+//This is basic c++ code.
